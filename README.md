@@ -12,3 +12,7 @@
 10. [Functions](../master/10)
 11. [MySQL 101](../master/11)
 12. [Classes 101](../master/12)
+13. [Intro to PDO](../master/13)
+14. [PDO Refactoring and Collaborators](../master/14)
+15. [Hide Your Secret Passwords](../master/15)
+16. [Make a Router](../master/16)
